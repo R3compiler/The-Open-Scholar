@@ -19,11 +19,4 @@ This is an **Open Source project**. We believe in shared knowledge!
 
 ---
 
-## 📂 Repository Structure
-*Here you can list your main folders:*
-- 📁 `Computer-Science/`
-- 📁 `Mathematics/`
-- 📁 `Resources/`
-
----
-<p align="right"><i>Knowledge belongs to the world.</i></p>
+<p align="right"><i>Knowledge belongs to the everyone.</i></p>
