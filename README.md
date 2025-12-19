@@ -20,7 +20,7 @@ This is an **Open Source project**. We believe in shared knowledge!
 ---
 ## 🧰 Contents
 Here you can find all the contents organized:
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme)
+- [Basic computer science notions](#basic computer science notions)
 ---
 
 
